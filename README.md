@@ -4,7 +4,7 @@ This is a custom Version with full named Settings, used for modifying game profi
 All game profiles are provided by the nvidia driver, but you can add your own profiles for games missing in the driver database.
 
 For more usefull information:
-* (https://github.com/NVIDIA/open-gpu-kernel-modules/tree/main)
+* https://github.com/NVIDIA/open-gpu-kernel-modules/tree/main
 * https://www.pcgamingwiki.com/wiki/Nvidia_Profile_Inspector
 
 ![](n_screen_default.png)
