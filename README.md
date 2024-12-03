@@ -7,4 +7,4 @@ For more usefull information:
 * https://github.com/NVIDIA/open-gpu-kernel-modules/tree/main
 * https://www.pcgamingwiki.com/wiki/Nvidia_Profile_Inspector
 
-![](n_screen_default.png)
+![]()
